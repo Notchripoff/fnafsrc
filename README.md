@@ -11,3 +11,6 @@ This repo contains the "source", which is just some javascript code and a tarbal
 >My fnaf fan game where you play as the janitor at my school while these erasers with creepy faces and paperclip limbs hunt you down
 
 Playable on Github pages.
+
+________________________
+I forked this to make a BrainRot version all credit's still go to lax1dude.
